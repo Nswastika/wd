@@ -1,0 +1,22 @@
+ /*stylimg contents*/
+   body {
+      font-family: helvetica, sans-serif;
+      width: 350px;
+      margin: 0 auto;
+    }
+  div {
+      padding-bottom: 20px;
+    }
+    label {
+      font-weight: bold;  
+    }
+  p {
+      background: #ffc125;
+      color: #5e2612;
+      padding: 10px;
+      visibility: hidden;
+    }
+  input[type="text"] {
+      padding: 5px;
+      width: 150px;
+    }

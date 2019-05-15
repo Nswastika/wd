@@ -1,0 +1,15 @@
+/* All elements with the attribute "data-vegetable"
+   are given green text */
+[data-vegetable] {
+  color: #008000;
+}
+
+
+[data-vegetable="liquid"] {
+  background-color: #daa520;
+}
+
+
+[data-vegetable~="spicy"] {
+  color: #ff0000;
+}
